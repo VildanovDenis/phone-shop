@@ -20,7 +20,6 @@ export class ProductList extends Component {
                   })
                 }}
               </ProductConsumer>
-              >
             </div>
           </div>
         </div>
